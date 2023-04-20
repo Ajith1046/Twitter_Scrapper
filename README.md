@@ -2,10 +2,6 @@
 
 Scrapes the filtered data from Twitter by interative GUI using streamlit.
 
-You can view the App in your browser by clicking the below mentioned link.
-
-https://ajith1046-twitter-scrapper-tweets-4ma4nu.streamlit.app/
-
 SKILLS REQUIRED
 1. Python Scripting
 2. Snscrape
